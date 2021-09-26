@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Завдання6\Завдання6\bin\Debug\net5.0\Завдання6.exe
+C:\Users\user\source\repos\Завдання6\Завдання6\bin\Debug\net5.0\Завдання6.deps.json
+C:\Users\user\source\repos\Завдання6\Завдання6\bin\Debug\net5.0\Завдання6.runtimeconfig.json
+C:\Users\user\source\repos\Завдання6\Завдання6\bin\Debug\net5.0\Завдання6.runtimeconfig.dev.json
+C:\Users\user\source\repos\Завдання6\Завдання6\bin\Debug\net5.0\Завдання6.dll
+C:\Users\user\source\repos\Завдання6\Завдання6\bin\Debug\net5.0\ref\Завдання6.dll
+C:\Users\user\source\repos\Завдання6\Завдання6\bin\Debug\net5.0\Завдання6.pdb
+C:\Users\user\source\repos\Завдання6\Завдання6\obj\Debug\net5.0\Завдання6.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Завдання6\Завдання6\obj\Debug\net5.0\Завдання6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Завдання6\Завдання6\obj\Debug\net5.0\Завдання6.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Завдання6\Завдання6\obj\Debug\net5.0\Завдання6.AssemblyInfo.cs
+C:\Users\user\source\repos\Завдання6\Завдання6\obj\Debug\net5.0\Завдання6.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Завдання6\Завдання6\obj\Debug\net5.0\Завдання6.dll
+C:\Users\user\source\repos\Завдання6\Завдання6\obj\Debug\net5.0\ref\Завдання6.dll
+C:\Users\user\source\repos\Завдання6\Завдання6\obj\Debug\net5.0\Завдання6.pdb
+C:\Users\user\source\repos\Завдання6\Завдання6\obj\Debug\net5.0\Завдання6.genruntimeconfig.cache
